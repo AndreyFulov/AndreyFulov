@@ -13,9 +13,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreyfulov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreyfulov&theme=solarized_dark)
 
-- I’m currently working on [lostbot](https://github.com/AndreyFulov/lostbot-go)
+- I’m currently working on **nothing, just for myself**
 
-- 🌱 I’m currently learning **GO and Backend development**
+- 🌱 I’m currently learning **PHP and Backend development**
 
 - 📫 How to reach me **tg @fulovplay**
 
